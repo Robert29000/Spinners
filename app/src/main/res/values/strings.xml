@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="click_me">Clicl_me</string>
+    <string name="text">Hello!</string>
+    <string-array name="Systems">
+        <item>Двоичная</item>
+        <item>Восьмеричная</item>
+        <item>Шестнадцетиричная</item>
+
+    </string-array>
+
+</resources>
